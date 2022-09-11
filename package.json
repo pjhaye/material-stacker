@@ -1,0 +1,16 @@
+{
+  "name": "com.pjvideogames.materialstacker",
+  "version": "0.0.1",
+  "displayName": "Material Stacker",
+  "description": "Allows easy stacking of materials onto meshes without losing the original material assignments",
+  "unity": "2021.1",
+  "keywords": [
+    "materials",
+    "shaders"
+  ],
+  "author": {
+    "name": "PJ Haye",
+    "email": "pj.haye@gmail.com"
+  },
+  "type": "module"
+}
