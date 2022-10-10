@@ -1,5 +1,5 @@
 {
-    "name": "pjvideogames.materialstacker.runtime",
+    "name": "PjVideoGames.MaterialStacker",
     "rootNamespace": "MaterialStacking",
     "references": [],
     "includePlatforms": [],
